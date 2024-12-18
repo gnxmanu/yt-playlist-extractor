@@ -1,0 +1,32 @@
+*.json
+*.pyc
+client_secrets.json
+venv
+
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+venv/
+.env/
+*.env/
+
+# PyCharm specific files
+.idea/
+
+# Test output
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Unit test coverage reports
+.coverage
+coverage/
+
+# pytest cache
+.pytest_cache/
